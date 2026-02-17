@@ -26,6 +26,6 @@ Open `inspire.html` in any browser!
 ---
 
 ## 👩‍💻 Built by
-**KChavhan17** | 3rd Semester | Phone only 📱🔥
+**KChavhan17** | 4th Semester Student 🔥
 
 > Started from zero. Watch me grow! 💪
