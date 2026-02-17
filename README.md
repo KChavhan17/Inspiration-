@@ -28,4 +28,6 @@ Open `index.html` in any browser!
 ## 👩‍💻 Built by
 **KChavhan17** | 4th Semester Student 🔥
 
-> Started from zero. Watch me grow! 💪
+## ✈️Live Demo(⁠ ⁠ꈍ⁠ᴗ⁠ꈍ⁠)
+
+🔗https://kchavhan17.github.io/Inspiration-/
