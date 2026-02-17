@@ -21,7 +21,7 @@
 ---
 
 ## 🚀 How to Use
-Open `inspire.html` in any browser!
+Open `index.html` in any browser!
 
 ---
 
